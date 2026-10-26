@@ -1,0 +1,44 @@
+# Compiled Binaries & Executables
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.out
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+*.venv
+env/
+venv/
+ENV/
+
+# Microsoft Office temporary lock files
+~$*.docx
+~$*.doc
+~$*.pptx
+~$*.xlsx
+
+# Heavy media / video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+
+# Archives & Temp files
+*.zip
+*.rar
+*.tar.gz
+*.7z
+Thumbs.db
+.DS_Store
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.layout
+*.win
